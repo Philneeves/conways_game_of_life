@@ -7,3 +7,4 @@ black = 0, 0, 0
 pink = 255, 200, 200
 yellow = 255, 255, 0
 purple = 51, 0, 51
+brown = 51, 0, 0
